@@ -1,13 +1,13 @@
 [
   {
+    "title": "Sales Analysis App (Ask questions from dataset) 🎉",
+    "description": "This project uses Streamlit, Pandasai and OpenAI's ChatGPT-3 API. Answers any questions asked about the dataset using advanced natural language processing.",
+    "url": "https://raomohsin54-projects-sales-app-i6zzym.streamlit.app/"
+  },
+  {
     "title": "Chatbot with Streamlit and OpenAI's ChatGPT-3 API 🎉",
     "description": "This project uses Streamlit and OpenAI's ChatGPT-3 API to create a chatbot that can converse with users and answer questions using advanced natural language processing.",
     "url": "https://github.com/raomohsin54/Projects/blob/main/Chatbot.py"
-  },
-  {
-    "title": "Kaggle Portfolio",
-    "description": " In my portfolio, you'll find some of my past projects, including predictive modeling and exploratory data analysis.",
-    "url": "https://www.kaggle.com/mohsinmukhtiar"
   },
   {
     "title": "DataCamp Portfolio",
